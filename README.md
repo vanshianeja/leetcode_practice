@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vanshianeja/leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshianeja/leetcode_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3870-count-commas-in-range](https://github.com/vanshianeja/leetcode_practice/tree/master/3870-count-commas-in-range) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vanshianeja/leetcode_practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -46,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vanshianeja/leetcode_practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
