@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vanshianeja/leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vanshianeja/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/vanshianeja/leetcode_practice/tree/master/0704-binary-search) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vanshianeja/leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vanshianeja/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +59,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vanshianeja/leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vanshianeja/leetcode_practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vanshianeja/leetcode_practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
