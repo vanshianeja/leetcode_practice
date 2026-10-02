@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vanshianeja/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/vanshianeja/leetcode_practice/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshianeja/leetcode_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vanshianeja/leetcode_practice/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vanshianeja/leetcode_practice/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
