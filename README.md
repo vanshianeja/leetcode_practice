@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vanshianeja/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/vanshianeja/leetcode_practice/tree/master/0031-next-permutation) |
+| [0047-permutations-ii](https://github.com/vanshianeja/leetcode_practice/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/vanshianeja/leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanshianeja/leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/vanshianeja/leetcode_practice/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/vanshianeja/leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vanshianeja/leetcode_practice/tree/master/0217-contains-duplicate) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanshianeja/leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/vanshianeja/leetcode_practice/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
