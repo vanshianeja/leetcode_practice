@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanshianeja/leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/vanshianeja/leetcode_practice/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/vanshianeja/leetcode_practice/tree/master/0047-permutations-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vanshianeja/leetcode_practice/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
