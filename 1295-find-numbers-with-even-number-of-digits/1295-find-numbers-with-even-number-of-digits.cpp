@@ -1,20 +1,17 @@
 class Solution {
 public:
     int findNumbers(vector<int>& nums) {
-        int count = 0;
-        int i = 0;
-        while(i < nums.size()){
-            int n = nums[i];
-            int digits = 0;
-            while(n>0){
-                digits++;
-                n = n/10;
+    int count = 0;
+        for(int j = 0; j<nums.size(); j++){
+            int digits=1;
+            while(nums[j]/10 != 0){
+                nums[j]=nums[j]/10;
+                digits = digits + 1;
             }
             if(digits%2==0){
-                count++;
+                count+=1;
             }
-            i++;
         }
-        return count;
+    return count;
     }
 };
