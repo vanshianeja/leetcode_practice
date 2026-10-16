@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vanshianeja/leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshianeja/leetcode_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/vanshianeja/leetcode_practice/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/vanshianeja/leetcode_practice/tree/master/3870-count-commas-in-range) |
 ## Array
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshianeja/leetcode_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshianeja/leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/vanshianeja/leetcode_practice/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/vanshianeja/leetcode_practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vanshianeja/leetcode_practice/tree/master/1929-concatenation-of-array) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vanshianeja/leetcode_practice/tree/master/0217-contains-duplicate) |
+| [1512-number-of-good-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0912-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 ## Tree
 |  |
 | ------- |
