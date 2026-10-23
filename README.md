@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vanshianeja/leetcode_practice/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/vanshianeja/leetcode_practice/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/vanshianeja/leetcode_practice/tree/master/0096-unique-binary-search-trees) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vanshianeja/leetcode_practice/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/vanshianeja/leetcode_practice/tree/master/0190-reverse-bits) |
 ## Linked List
 |  |
