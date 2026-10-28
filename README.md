@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/vanshianeja/leetcode_practice/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/vanshianeja/leetcode_practice/tree/master/0096-unique-binary-search-trees) |
+| [0224-basic-calculator](https://github.com/vanshianeja/leetcode_practice/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/vanshianeja/leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshianeja/leetcode_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/1512-number-of-good-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vanshianeja/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/vanshianeja/leetcode_practice/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/vanshianeja/leetcode_practice/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/vanshianeja/leetcode_practice/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/vanshianeja/leetcode_practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vanshianeja/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0224-basic-calculator](https://github.com/vanshianeja/leetcode_practice/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/vanshianeja/leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 ## Depth-First Search
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vanshianeja/leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/vanshianeja/leetcode_practice/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
