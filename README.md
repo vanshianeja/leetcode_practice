@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/vanshianeja/leetcode_practice/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/vanshianeja/leetcode_practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vanshianeja/leetcode_practice/tree/master/1929-concatenation-of-array) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vanshianeja/leetcode_practice/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/vanshianeja/leetcode_practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vanshianeja/leetcode_practice/tree/master/0704-binary-search) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vanshianeja/leetcode_practice/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/vanshianeja/leetcode_practice/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/vanshianeja/leetcode_practice/tree/master/0190-reverse-bits) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vanshianeja/leetcode_practice/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 ## Linked List
 |  |
 | ------- |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vanshianeja/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vanshianeja/leetcode_practice/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
