@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vanshianeja/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshianeja/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshianeja/leetcode_practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanshianeja/leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -125,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vanshianeja/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vanshianeja/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vanshianeja/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/vanshianeja/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vanshianeja/leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vanshianeja/leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vanshianeja/leetcode_practice/tree/master/0206-reverse-linked-list) |
@@ -222,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0065-valid-number](https://github.com/vanshianeja/leetcode_practice/tree/master/0065-valid-number) |
 | [0224-basic-calculator](https://github.com/vanshianeja/leetcode_practice/tree/master/0224-basic-calculator) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vanshianeja/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
