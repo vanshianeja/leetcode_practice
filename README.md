@@ -220,5 +220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/vanshianeja/leetcode_practice/tree/master/0065-valid-number) |
 | [0224-basic-calculator](https://github.com/vanshianeja/leetcode_practice/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
