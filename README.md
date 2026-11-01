@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vanshianeja/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/vanshianeja/leetcode_practice/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/vanshianeja/leetcode_practice/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0070-climbing-stairs) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vanshianeja/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vanshianeja/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/vanshianeja/leetcode_practice/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/vanshianeja/leetcode_practice/tree/master/0206-reverse-linked-list) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vanshianeja/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vanshianeja/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/vanshianeja/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vanshianeja/leetcode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
