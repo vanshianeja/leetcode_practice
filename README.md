@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshianeja/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/vanshianeja/leetcode_practice/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/vanshianeja/leetcode_practice/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/vanshianeja/leetcode_practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/vanshianeja/leetcode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/vanshianeja/leetcode_practice/tree/master/0224-basic-calculator) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vanshianeja/leetcode_practice/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/vanshianeja/leetcode_practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vanshianeja/leetcode_practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vanshianeja/leetcode_practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/vanshianeja/leetcode_practice/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/vanshianeja/leetcode_practice/tree/master/0190-reverse-bits) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vanshianeja/leetcode_practice/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 ## Linked List
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/vanshianeja/leetcode_practice/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/vanshianeja/leetcode_practice/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/vanshianeja/leetcode_practice/tree/master/0224-basic-calculator) |
 ## Tournament Sort
 |  |
