@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vanshianeja/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/vanshianeja/leetcode_practice/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/vanshianeja/leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/vanshianeja/leetcode_practice/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/vanshianeja/leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0088-merge-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vanshianeja/leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshianeja/leetcode_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshianeja/leetcode_practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/vanshianeja/leetcode_practice/tree/master/0141-linked-list-cycle) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vanshianeja/leetcode_practice/tree/master/0036-valid-sudoku) |
 | [1672-richest-customer-wealth](https://github.com/vanshianeja/leetcode_practice/tree/master/1672-richest-customer-wealth) |
 ## Breadth-First Search
 |  |
