@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vanshianeja/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/vanshianeja/leetcode_practice/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/vanshianeja/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/vanshianeja/leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vanshianeja/leetcode_practice/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/vanshianeja/leetcode_practice/tree/master/0047-permutations-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshianeja/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/vanshianeja/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/vanshianeja/leetcode_practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vanshianeja/leetcode_practice/tree/master/0704-binary-search) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vanshianeja/leetcode_practice/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
