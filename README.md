@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vanshianeja/leetcode_practice/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshianeja/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/vanshianeja/leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0493-reverse-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/vanshianeja/leetcode_practice/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vanshianeja/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/vanshianeja/leetcode_practice/tree/master/0374-guess-number-higher-or-lower) |
+| [0493-reverse-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/vanshianeja/leetcode_practice/tree/master/0704-binary-search) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vanshianeja/leetcode_practice/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanshianeja/leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vanshianeja/leetcode_practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/vanshianeja/leetcode_practice/tree/master/0190-reverse-bits) |
+| [0493-reverse-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vanshianeja/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/vanshianeja/leetcode_practice/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -296,4 +300,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vanshianeja/leetcode_practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
