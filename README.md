@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vanshianeja/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/vanshianeja/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/vanshianeja/leetcode_practice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/vanshianeja/leetcode_practice/tree/master/0118-pascals-triangle) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vanshianeja/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vanshianeja/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/vanshianeja/leetcode_practice/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/vanshianeja/leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vanshianeja/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/vanshianeja/leetcode_practice/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/vanshianeja/leetcode_practice/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/vanshianeja/leetcode_practice/tree/master/0224-basic-calculator) |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vanshianeja/leetcode_practice/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/vanshianeja/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
